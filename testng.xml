@@ -1,0 +1,7 @@
+<suite name="SauceDemo Automation Suite">
+<test name="Login Functional Tests">
+        <classes>
+            <class name="tests.LoginTest"/>
+        </classes>
+    </test>
+</suite>

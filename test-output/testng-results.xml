@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="11" passed="11" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-07-14T15:34:06 PKT" name="Default suite" finished-at="2026-07-14T15:34:48 PKT" duration-ms="41304">
+    <groups>
+    </groups>
+    <test started-at="2026-07-14T15:34:06 PKT" name="Default test" finished-at="2026-07-14T15:34:48 PKT" duration-ms="41304">
+      <class name="tests.LoginTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.LoginTest@3e694b3f]" started-at="2026-07-14T15:34:06 PKT" name="setUp" finished-at="2026-07-14T15:34:09 PKT" duration-ms="2349" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyEmptyCredentials()[pri:0, instance:tests.LoginTest@3e694b3f]" started-at="2026-07-14T15:34:09 PKT" name="verifyEmptyCredentials" finished-at="2026-07-14T15:34:10 PKT" duration-ms="874" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyEmptyCredentials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.LoginTest@3e694b3f]" started-at="2026-07-14T15:34:10 PKT" name="tearDown" finished-at="2026-07-14T15:34:10 PKT" duration-ms="396" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.LoginTest@3e694b3f]" started-at="2026-07-14T15:34:10 PKT" name="setUp" finished-at="2026-07-14T15:34:12 PKT" duration-ms="2178" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyInvalidLogin()[pri:0, instance:tests.LoginTest@3e694b3f]" started-at="2026-07-14T15:34:12 PKT" name="verifyInvalidLogin" finished-at="2026-07-14T15:34:13 PKT" duration-ms="672" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyInvalidLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.LoginTest@3e694b3f]" started-at="2026-07-14T15:34:13 PKT" name="tearDown" finished-at="2026-07-14T15:34:15 PKT" duration-ms="1881" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.LoginTest@3e694b3f]" started-at="2026-07-14T15:34:15 PKT" name="setUp" finished-at="2026-07-14T15:34:17 PKT" duration-ms="2180" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyInvalidPassword()[pri:0, instance:tests.LoginTest@3e694b3f]" started-at="2026-07-14T15:34:17 PKT" name="verifyInvalidPassword" finished-at="2026-07-14T15:34:18 PKT" duration-ms="856" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyInvalidPassword -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.LoginTest@3e694b3f]" started-at="2026-07-14T15:34:18 PKT" name="tearDown" finished-at="2026-07-14T15:34:18 PKT" duration-ms="471" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.LoginTest@3e694b3f]" started-at="2026-07-14T15:34:18 PKT" name="setUp" finished-at="2026-07-14T15:34:20 PKT" duration-ms="1935" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyInvalidUsername()[pri:0, instance:tests.LoginTest@3e694b3f]" started-at="2026-07-14T15:34:20 PKT" name="verifyInvalidUsername" finished-at="2026-07-14T15:34:21 PKT" duration-ms="838" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyInvalidUsername -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.LoginTest@3e694b3f]" started-at="2026-07-14T15:34:21 PKT" name="tearDown" finished-at="2026-07-14T15:34:22 PKT" duration-ms="602" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.LoginTest@3e694b3f]" started-at="2026-07-14T15:34:22 PKT" name="setUp" finished-at="2026-07-14T15:34:24 PKT" duration-ms="2049" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyLockedUserLogin()[pri:0, instance:tests.LoginTest@3e694b3f]" started-at="2026-07-14T15:34:24 PKT" name="verifyLockedUserLogin" finished-at="2026-07-14T15:34:24 PKT" duration-ms="680" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLockedUserLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.LoginTest@3e694b3f]" started-at="2026-07-14T15:34:24 PKT" name="tearDown" finished-at="2026-07-14T15:34:25 PKT" duration-ms="282" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.LoginTest@3e694b3f]" started-at="2026-07-14T15:34:25 PKT" name="setUp" finished-at="2026-07-14T15:34:27 PKT" duration-ms="1982" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyMaxLengthUsername()[pri:0, instance:tests.LoginTest@3e694b3f]" started-at="2026-07-14T15:34:27 PKT" name="verifyMaxLengthUsername" finished-at="2026-07-14T15:34:27 PKT" duration-ms="765" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyMaxLengthUsername -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.LoginTest@3e694b3f]" started-at="2026-07-14T15:34:27 PKT" name="tearDown" finished-at="2026-07-14T15:34:30 PKT" duration-ms="2967" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.LoginTest@3e694b3f]" started-at="2026-07-14T15:34:30 PKT" name="setUp" finished-at="2026-07-14T15:34:33 PKT" duration-ms="2723" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyMultipleFailedAttempts()[pri:0, instance:tests.LoginTest@3e694b3f]" started-at="2026-07-14T15:34:33 PKT" name="verifyMultipleFailedAttempts" finished-at="2026-07-14T15:34:36 PKT" duration-ms="2368" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyMultipleFailedAttempts -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.LoginTest@3e694b3f]" started-at="2026-07-14T15:34:36 PKT" name="tearDown" finished-at="2026-07-14T15:34:36 PKT" duration-ms="290" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.LoginTest@3e694b3f]" started-at="2026-07-14T15:34:36 PKT" name="setUp" finished-at="2026-07-14T15:34:38 PKT" duration-ms="2081" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyPasswordIsMasked()[pri:0, instance:tests.LoginTest@3e694b3f]" started-at="2026-07-14T15:34:38 PKT" name="verifyPasswordIsMasked" finished-at="2026-07-14T15:34:38 PKT" duration-ms="63" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPasswordIsMasked -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.LoginTest@3e694b3f]" started-at="2026-07-14T15:34:38 PKT" name="tearDown" finished-at="2026-07-14T15:34:39 PKT" duration-ms="563" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.LoginTest@3e694b3f]" started-at="2026-07-14T15:34:39 PKT" name="setUp" finished-at="2026-07-14T15:34:40 PKT" duration-ms="1949" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyPasswordWithSpaces()[pri:0, instance:tests.LoginTest@3e694b3f]" started-at="2026-07-14T15:34:40 PKT" name="verifyPasswordWithSpaces" finished-at="2026-07-14T15:34:41 PKT" duration-ms="623" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPasswordWithSpaces -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.LoginTest@3e694b3f]" started-at="2026-07-14T15:34:41 PKT" name="tearDown" finished-at="2026-07-14T15:34:41 PKT" duration-ms="263" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.LoginTest@3e694b3f]" started-at="2026-07-14T15:34:41 PKT" name="setUp" finished-at="2026-07-14T15:34:43 PKT" duration-ms="2052" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyUsernameTrimming()[pri:0, instance:tests.LoginTest@3e694b3f]" started-at="2026-07-14T15:34:43 PKT" name="verifyUsernameTrimming" finished-at="2026-07-14T15:34:44 PKT" duration-ms="647" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUsernameTrimming -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.LoginTest@3e694b3f]" started-at="2026-07-14T15:34:44 PKT" name="tearDown" finished-at="2026-07-14T15:34:44 PKT" duration-ms="388" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.LoginTest@3e694b3f]" started-at="2026-07-14T15:34:44 PKT" name="setUp" finished-at="2026-07-14T15:34:47 PKT" duration-ms="2118" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyValidLogin()[pri:0, instance:tests.LoginTest@3e694b3f]" started-at="2026-07-14T15:34:47 PKT" name="verifyValidLogin" finished-at="2026-07-14T15:34:47 PKT" duration-ms="673" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyValidLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.LoginTest@3e694b3f]" started-at="2026-07-14T15:34:47 PKT" name="tearDown" finished-at="2026-07-14T15:34:48 PKT" duration-ms="385" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
